@@ -1,6 +1,6 @@
 # Görev Yönetimi REST API
 
-Java ve Spring Boot ile geliştirilmiş, tam katmanlı bir Görev Yönetimi REST API projesi.
+A full-stack Task Management REST API project developed with Java and Spring Boot.
 
 ## Proje Yapısı
 
